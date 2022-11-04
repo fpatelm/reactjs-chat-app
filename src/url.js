@@ -1,0 +1,1 @@
+export const CHATS = 'https://faker-node-app.herokuapp.com/whatsapp/chats';

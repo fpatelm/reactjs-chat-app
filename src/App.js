@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.scss";
-import HomePage from "./components/HomePage/HomePage";
+import HomePage from "./Pages/HomePage";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
