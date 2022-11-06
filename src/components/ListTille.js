@@ -19,9 +19,9 @@ class ListTille extends Component {
                                 variant="body2"
                                 color="text.primary"
                             >
-                                Ali Connors
+                                
                             </Typography>
-                            {` — ${this.props.msg}`}
+                            {` ${this.props.msg}`}
                         </Fragment>
                     }
                 />
